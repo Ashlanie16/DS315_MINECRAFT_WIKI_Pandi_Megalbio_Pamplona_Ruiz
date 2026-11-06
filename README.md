@@ -6,7 +6,11 @@ Course: DS315
 
 Team:
 
+
 Pandi - Lead/Structure
+
 Megalbio - Content/Design
+
 Pamplona - Content/Design
+
 Ruiz - Content/Design
