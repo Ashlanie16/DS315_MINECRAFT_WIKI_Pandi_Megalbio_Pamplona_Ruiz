@@ -1,0 +1,3 @@
+/* Colors for the Iron Golem page */
+:root{--bg:#e3e6e6;--page:#fafbfb;--ink:#1f2426;--mute:#566063;--link:#2f7d2a;--bar:#171c1e;--head:#5b6a72;--green:#4f7f3a;--line:#d0d6d8;--box:#edf1f2;--hit:#b3261e;--pic:linear-gradient(#7f8f94,#2b3436);--navc:#d3dcdf;color-scheme:light}
+@media (prefers-color-scheme:dark){:root{--bg:#0f1213;--page:#171c1e;--ink:#e2e8ea;--mute:#9aa6aa;--link:#8fd35f;--bar:#090b0c;--head:#4a5961;--line:#2e3639;--box:#1f2629;--hit:#ff8a80;color-scheme:dark}}

@@ -1,0 +1,3 @@
+/* Colors for the Enderman page */
+:root{--bg:#e6e3ea;--page:#faf9fc;--ink:#1f1a26;--mute:#5f566b;--link:#7a2fbf;--bar:#130f1a;--head:#4b2a73;--green:#7a2fbf;--line:#d6d0e0;--box:#efecf4;--hit:#b3261e;--pic:linear-gradient(#a58fcf,#3f2f66);--navc:#ddd5ea;color-scheme:light}
+@media (prefers-color-scheme:dark){:root{--bg:#0e0b14;--page:#17121f;--ink:#e8e2f2;--mute:#a79bb8;--link:#c792ff;--bar:#08060c;--head:#4b2a73;--line:#2f2640;--box:#1f1829;--hit:#ff8a80;color-scheme:dark}}

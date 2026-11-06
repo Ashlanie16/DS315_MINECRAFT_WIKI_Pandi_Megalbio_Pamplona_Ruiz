@@ -1,0 +1,3 @@
+/* Colors for the Witch page */
+:root{--bg:#e6e2ea;--page:#faf8fc;--ink:#1f1a26;--mute:#5f566b;--link:#6b2fa0;--bar:#1a1022;--head:#4a2a6e;--green:#3f8a3a;--line:#d6cfe0;--box:#efebf4;--hit:#b3261e;--pic:linear-gradient(#8f7fb0,#3b2a55);--navc:#ddd2ea;color-scheme:light}
+@media (prefers-color-scheme:dark){:root{--bg:#0f0b14;--page:#18121f;--ink:#e8e2f2;--mute:#a79bb8;--link:#b98cff;--bar:#09060d;--head:#4a2a6e;--line:#2f2640;--box:#201829;--hit:#ff8a80;color-scheme:dark}}

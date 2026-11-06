@@ -1,0 +1,3 @@
+/* Colors for the Creeper page */
+:root{--bg:#e3ebe0;--page:#fafcf8;--ink:#1d261b;--mute:#566451;--link:#2d8a2a;--bar:#172015;--head:#3c8a37;--green:#4aa63f;--line:#d2dccb;--box:#ecf3e7;--hit:#b3261e;--pic:linear-gradient(#9fd88a,#3f7a35);--navc:#d5e6cf;color-scheme:light}
+@media (prefers-color-scheme:dark){:root{--bg:#0e140d;--page:#151d13;--ink:#e0ead8;--mute:#9fb094;--link:#7fe05a;--bar:#080d07;--head:#2f6e2b;--line:#2b3a27;--box:#1c271a;--hit:#ff8a80;color-scheme:dark}}

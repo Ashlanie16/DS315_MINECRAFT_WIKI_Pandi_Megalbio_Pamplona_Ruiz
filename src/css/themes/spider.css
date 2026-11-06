@@ -1,0 +1,3 @@
+/* Colors for the Spider page */
+:root{--bg:#e9e4e2;--page:#fcfaf9;--ink:#241d1d;--mute:#645a58;--link:#a3262c;--bar:#1c1717;--head:#5a2326;--green:#8c2a2f;--line:#d9cfcc;--box:#f3eded;--hit:#b3261e;--pic:linear-gradient(#6b5a5a,#2a2222);--navc:#e0d3d0;color-scheme:light}
+@media (prefers-color-scheme:dark){:root{--bg:#120e0e;--page:#1b1616;--ink:#ebe1df;--mute:#aa9d9a;--link:#ff7b72;--bar:#0b0808;--head:#6b2a2e;--line:#3a2f2e;--box:#251d1d;--hit:#ff8a80;color-scheme:dark}}

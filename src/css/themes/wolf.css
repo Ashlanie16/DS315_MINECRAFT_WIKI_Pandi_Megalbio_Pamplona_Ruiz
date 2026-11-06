@@ -1,0 +1,3 @@
+/* Colors for the Wolf page */
+:root{--bg:#e6e8ea;--page:#fbfbfc;--ink:#20232a;--mute:#5d6470;--link:#b3262c;--bar:#1c1f24;--head:#6b7480;--green:#a82a30;--line:#d4d8dd;--box:#eef0f2;--hit:#b3261e;--pic:linear-gradient(#6f9b5f,#2d4a2b);--navc:#d6dbe0;color-scheme:light}
+@media (prefers-color-scheme:dark){:root{--bg:#101214;--page:#181b1f;--ink:#e5e8ec;--mute:#a0a7b0;--link:#ff7b72;--bar:#0a0b0d;--head:#4d5560;--line:#2f343a;--box:#202429;--hit:#ff8a80;color-scheme:dark}}
